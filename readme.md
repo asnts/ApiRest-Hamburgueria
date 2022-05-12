@@ -1,4 +1,4 @@
-# Projeto de encerramento de módulo: CRUD - API # 🍔 💖
+# Projeto de encerramento de módulo: CRUD - API # 🍔 
 ____
 #### 📝Proposta:
  *Nossa Squad foi escalada para o desenvolvimento de uma api Rest em NodeJs. Escolhemos um tema e a partir dele definimos as entidades do projeto. Iniciamos a produção da nossa aplicação.*
